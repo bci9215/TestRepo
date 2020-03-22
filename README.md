@@ -1,3 +1,4 @@
+![headshot](jacklyn.png)
 # TestRepo
 Test Repo
 
